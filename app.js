@@ -9,4 +9,4 @@ function greetUser(name) {
   }
   
   console.log(greetUser("Developer"));
-  console.log("Sum:", calculateSum(5, 10));
+  console.log("Sum:", calculateSum(5, 10)); 
